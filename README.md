@@ -1,2 +1,3 @@
 # food-recommendation-system
  
+This project was made for one of my class assignment. The purpose of this project is to create a recommendation system. In this project, my friends and I designed a food recommendation system, that will give recommendation of foods based on foods that user had already liked, and also based on what diet type they're currently doing. For the recommendation, we use item-based collaborative filtering. The idea is to find foods that are similar to foods that user had already liked. To find that similarity, we use cosine similarity to compare ratings given by users of one food to annother.
